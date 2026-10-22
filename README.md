@@ -1,6 +1,6 @@
 # Budget Tracker AI
 
-Eine intelligente Anwendung zur Budget- und Finanzverwaltung mit KI-Unterstützung.
+Eine intelligente Anwendung zur Budget- und Finanzverwaltung mit KI-Unterstützung. 
 
 ---
 
